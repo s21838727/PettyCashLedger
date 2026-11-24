@@ -454,7 +454,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-900 flex flex-col font-sans">
+    <div className="min-h-screen bg-sky-50/70 text-slate-900 flex flex-col font-sans">
       {/* Top Bar Contract (Strict 3-zone layout) */}
       <header className="flex items-center justify-between gap-8 px-8 py-4 bg-white border-b border-slate-200 sticky top-0 z-30 shadow-xs">
         {/* Zone 1: Single text element wordmark */}
