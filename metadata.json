@@ -1,0 +1,6 @@
+{
+  "name": "部門零用金管理系統",
+  "description": "部門零用金紀錄表，具備自動計算餘額、AI 智慧發票辨識及 Excel 報表匯出功能",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
